@@ -36,7 +36,7 @@ Creating Excel dashboards is a great way to visually represent and analyze data.
 9. Implement Conditional Formatting:
    - Use conditional formatting to highlight important data points.
    - Apply color scales, data bars, and icon sets to visually represent data values.
-
+   - 
 10. Include Dynamic Elements:
    - Make your dashboard dynamic by using Excel features like named ranges, formulas, and dynamic data validation.
    - This allows your dashboard to update automatically when new data is added.
@@ -56,3 +56,6 @@ Creating Excel dashboards is a great way to visually represent and analyze data.
 14. Share and Distribute:
    - Save your dashboard and share it with stakeholders.
    - Consider protecting sheets and cells to prevent unintended changes.
+![business intelligence](https://github.com/Ravi-singh-jasawat/Excel_Dashboard/assets/151383194/81dcc8c4-4145![Mckinsey](https://github.com/Ravi-singh-jasawat/Excel_Dashboard/assets/151383194/440b564c-9278-4925-a6ea-7e6c8b2d5623)
+-46a8-8237-f12877a42385)
+![road accidents](https://github.com/Ravi-singh-jasawat/Excel_Dashboard/assets/151383194/ff138348-2a48-49a1-8021-faa38f24673b)
